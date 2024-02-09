@@ -1,0 +1,13 @@
+.grid-container
+{
+    display: grid;
+    max-width: 100%;
+    background-color: black;
+}
+
+.box
+{
+    background-color: lightyellow;
+    margin: 20px;
+    padding: 20px;
+}
